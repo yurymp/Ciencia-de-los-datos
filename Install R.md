@@ -3,11 +3,11 @@ Instalación de R en Windows 10
 
 
 
-***Objetivo***— Al finalizar esta actividad, el estudiante debe haber instalado exitosamente el lenguaje R en su máquina de trabajo.
-***Tipo de actividad*—** Tutorial.
-***Formato***— Individual.
-***Duración***— 00:30:00 horas.
-***Descripción***— Este tutorial explica el proceso de instalación del lenguaje de programación R en Windows 10.
+***Objetivo***— Al finalizar esta actividad, el estudiante debe haber instalado exitosamente el lenguaje R en su máquina de trabajo.   
+***Tipo de actividad*—** Tutorial.  
+***Formato***— Individual.  
+***Duración***— 00:30:00 horas.  
+***Descripción***— Este tutorial explica el proceso de instalación del lenguaje de programación R en Windows 10.  
 
 **1.** Descargue el lenguaje de programación R del sitio:
      [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
